@@ -40,19 +40,19 @@
     "url": "https://dev.codedang.com",
     "icon": "https://icons.duckduckgo.com/ip3/dev.codedang.com.ico",
     "slug": "codedang-dev",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 480,
-    "timeDay": 480,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "86.06%",
+    "uptimeDay": "86.06%",
+    "uptimeWeek": "86.06%",
+    "uptimeMonth": "86.06%",
+    "uptimeYear": "86.06%",
+    "time": 4285,
+    "timeDay": 4285,
+    "timeWeek": 4285,
+    "timeMonth": 4285,
+    "timeYear": 4285,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 9
     }
   },
   {
