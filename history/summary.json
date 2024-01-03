@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.codedang.com.ico",
     "slug": "codedang-dev",
     "status": "down",
-    "uptime": "75.39%",
-    "uptimeDay": "75.39%",
-    "uptimeWeek": "75.39%",
-    "uptimeMonth": "75.39%",
-    "uptimeYear": "75.39%",
+    "uptime": "73.39%",
+    "uptimeDay": "73.39%",
+    "uptimeWeek": "73.39%",
+    "uptimeMonth": "73.39%",
+    "uptimeYear": "73.39%",
     "time": 5058,
     "timeDay": 5058,
     "timeWeek": 5058,
     "timeMonth": 5058,
     "timeYear": 5058,
     "dailyMinutesDown": {
-      "2024-01-03": 213
+      "2024-01-03": 236
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://dev.codedang.com/api/notice?take=5",
     "icon": "https://icons.duckduckgo.com/ip3/dev.codedang.com.ico",
     "slug": "codedang-api-dev",
-    "status": "down",
-    "uptime": "83.98%",
-    "uptimeDay": "83.98%",
-    "uptimeWeek": "83.98%",
-    "uptimeMonth": "83.98%",
-    "uptimeYear": "83.98%",
-    "time": 189,
-    "timeDay": 189,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "81.76%",
+    "uptimeDay": "81.76%",
+    "uptimeWeek": "81.76%",
+    "uptimeMonth": "81.76%",
+    "uptimeYear": "81.76%",
+    "time": 369,
+    "timeDay": 369,
+    "timeWeek": 369,
+    "timeMonth": 369,
+    "timeYear": 369,
     "dailyMinutesDown": {
-      "2024-01-03": 138
+      "2024-01-03": 162
     }
   }
 ]
